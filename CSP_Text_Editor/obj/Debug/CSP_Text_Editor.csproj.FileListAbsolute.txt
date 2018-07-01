@@ -1,0 +1,9 @@
+c:\users\csip\documents\visual studio 2015\Projects\CSP_Text_Editor\CSP_Text_Editor\bin\Debug\CSP_Text_Editor.exe.config
+c:\users\csip\documents\visual studio 2015\Projects\CSP_Text_Editor\CSP_Text_Editor\bin\Debug\CSP_Text_Editor.exe
+c:\users\csip\documents\visual studio 2015\Projects\CSP_Text_Editor\CSP_Text_Editor\bin\Debug\CSP_Text_Editor.pdb
+c:\users\csip\documents\visual studio 2015\Projects\CSP_Text_Editor\CSP_Text_Editor\obj\Debug\CSP_Text_Editor.csprojResolveAssemblyReference.cache
+c:\users\csip\documents\visual studio 2015\Projects\CSP_Text_Editor\CSP_Text_Editor\obj\Debug\CSP_Text_Editor.Properties.Resources.resources
+c:\users\csip\documents\visual studio 2015\Projects\CSP_Text_Editor\CSP_Text_Editor\obj\Debug\CSP_Text_Editor.csproj.GenerateResource.Cache
+c:\users\csip\documents\visual studio 2015\Projects\CSP_Text_Editor\CSP_Text_Editor\obj\Debug\CSP_Text_Editor.exe
+c:\users\csip\documents\visual studio 2015\Projects\CSP_Text_Editor\CSP_Text_Editor\obj\Debug\CSP_Text_Editor.pdb
+C:\Users\CSIP\documents\visual studio 2015\Projects\CSP_Text_Editor\CSP_Text_Editor\obj\Debug\CSP_Text_Editor.frmEditor.resources
